@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/BASIC/BASIC.iml" filepath="$PROJECT_DIR$/BASIC/BASIC.iml" />
+      <module fileurl="file://$PROJECT_DIR$/INTERMEDIATE/INTERMEDIATE.iml" filepath="$PROJECT_DIR$/INTERMEDIATE/INTERMEDIATE.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/INTRODUCATION TO JAVA.iml" filepath="$PROJECT_DIR$/.idea/INTRODUCATION TO JAVA.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JAVAFILE/JAVAFILE.iml" filepath="$PROJECT_DIR$/JAVAFILE/JAVAFILE.iml" />
+      <module fileurl="file://$PROJECT_DIR$/OBJECTORIENTED/OBJECTORIENTED.iml" filepath="$PROJECT_DIR$/OBJECTORIENTED/OBJECTORIENTED.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PROJECTS/PROJECTS.iml" filepath="$PROJECT_DIR$/PROJECTS/PROJECTS.iml" />
+      <module fileurl="file://$PROJECT_DIR$/W3SCHOOLS/W3SCHOOLS.iml" filepath="$PROJECT_DIR$/W3SCHOOLS/W3SCHOOLS.iml" />
+    </modules>
+  </component>
+</project>
